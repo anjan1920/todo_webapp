@@ -8,21 +8,25 @@ Tailwind CSS for modern UI
 DOM manipulation using  JavaScript
 ----------------------------------------------------------------
 
-🚀 How to Run
+🚀** How to Run**
+
 Set up Node.js and Tailwind CSS
+
 Clone/download the files
+
 Navigate to the   `todo_webapp` directory
+
 Run the CLI tool to scan your source files for classes and build your CSS-`npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 `
 Open index.html in your browser
 
 Start adding tasks!
 -------------------------------------------------------------------
-Got it, Anjan! Here's the **Key Learnings** written in the format you want — point-wise, explained in a natural flow:
+
 
 ---
 
-## ✅ Key Learnings
+##  Key Learnings
 
 ### 1) **Script Position and `DOMContentLoaded`**
 
