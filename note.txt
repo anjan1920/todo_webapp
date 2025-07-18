@@ -1,0 +1,3 @@
+curd operation :
+CRUD is an acronym that stands for Create, Read, Update, and Delete. These are the four basic operations that can be performed on data stored in a database or other persistent storage
+local storage browser :
